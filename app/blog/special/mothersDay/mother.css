@@ -1,0 +1,36 @@
+.body{
+    height: calc(100vh - 176px);
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width:100%;
+}
+
+.content{
+    background-color: aliceblue;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width:50%;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+.ciallo{
+    width:40%;
+}
+.gift{
+    width:70%
+}
